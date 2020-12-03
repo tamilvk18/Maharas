@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/greenelab/deep-review/tree/gh-pages) branch hosts the contents of this directory at <https://greenelab.github.io/deep-review/>.
-The permalink for this webpage version is <https://greenelab.github.io/deep-review/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://greenelab.github.io/deep-review/v/freeze/>.
+The [`gh-pages`](https://github.com/tamilvk18/Maharas/tree/gh-pages) branch hosts the contents of this directory at <https://tamilvk18.github.io/Maharas/>.
+The permalink for this webpage version is <https://tamilvk18.github.io/Maharas/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://tamilvk18.github.io/Maharas/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`75f2dd8c61099a17235a4b8de0567b2364901e4d`](https://github.com/greenelab/deep-review/commit/75f2dd8c61099a17235a4b8de0567b2364901e4d).
+[`75f2dd8c61099a17235a4b8de0567b2364901e4d`](https://github.com/tamilvk18/Maharas/commit/75f2dd8c61099a17235a4b8de0567b2364901e4d).
