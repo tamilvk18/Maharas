@@ -10,7 +10,7 @@ author-meta:
 bibliography:
 - content/manual-references-2020-01-29.json
 - content/manual-references.json
-date-meta: '2020-11-10'
+date-meta: '2020-12-03'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -29,9 +29,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Opportunities and obstacles for deep learning in biology and medicine [update in progress]" />
 
-  <meta name="dc.date" content="2020-11-10" />
+  <meta name="dc.date" content="2020-12-03" />
 
-  <meta name="citation_publication_date" content="2020-11-10" />
+  <meta name="citation_publication_date" content="2020-12-03" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -91,31 +91,31 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
 
-  <link rel="canonical" href="https://greenelab.github.io/deep-review/" />
+  <link rel="canonical" href="https://tamilvk18.github.io/Maharas/" />
 
-  <meta property="og:url" content="https://greenelab.github.io/deep-review/" />
+  <meta property="og:url" content="https://tamilvk18.github.io/Maharas/" />
 
-  <meta property="twitter:url" content="https://greenelab.github.io/deep-review/" />
+  <meta property="twitter:url" content="https://tamilvk18.github.io/Maharas/" />
 
-  <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/deep-review/" />
+  <meta name="citation_fulltext_html_url" content="https://tamilvk18.github.io/Maharas/" />
 
-  <meta name="citation_pdf_url" content="https://greenelab.github.io/deep-review/manuscript.pdf" />
+  <meta name="citation_pdf_url" content="https://tamilvk18.github.io/Maharas/manuscript.pdf" />
 
-  <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/deep-review/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://tamilvk18.github.io/Maharas/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/deep-review/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/" />
+  <link rel="alternate" type="text/html" href="https://tamilvk18.github.io/Maharas/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/deep-review/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/" />
+  <meta name="manubot_html_url_versioned" content="https://tamilvk18.github.io/Maharas/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/deep-review/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://tamilvk18.github.io/Maharas/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/greenelab/deep-review/raw/75f2dd8c61099a17235a4b8de0567b2364901e4d/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/tamilvk18/Maharas/raw/75f2dd8c61099a17235a4b8de0567b2364901e4d/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/greenelab/deep-review/raw/75f2dd8c61099a17235a4b8de0567b2364901e4d/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/tamilvk18/Maharas/raw/75f2dd8c61099a17235a4b8de0567b2364901e4d/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -155,10 +155,10 @@ New authors and links to new sections are available in [GitHub Issue #959](https
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/deep-review/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/))
+([permalink](https://tamilvk18.github.io/Maharas/v/75f2dd8c61099a17235a4b8de0567b2364901e4d/))
 was automatically generated
-from [greenelab/deep-review@75f2dd8](https://github.com/greenelab/deep-review/tree/75f2dd8c61099a17235a4b8de0567b2364901e4d)
-on November 10, 2020.
+from [tamilvk18/Maharas@75f2dd8](https://github.com/tamilvk18/Maharas/tree/75f2dd8c61099a17235a4b8de0567b2364901e4d)
+on December 3, 2020.
 </em></small>
 
 ## Authors
